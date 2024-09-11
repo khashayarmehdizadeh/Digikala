@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: IranYekan;
+    src: url(/fonts/fa/IRANYekanWeb-Medium.eot);
+    src: url(/fonts/fa/IRANYekanWeb-Medium.ttf);
+    src: url(/fonts/fa/IRANYekanWeb-Medium.woff);
+    src: url(/fonts/fa/IRANYekanWeb-Medium.woff2);
+}
+:root{
+    --fontFamily:IranYekan;
+}
+.wrapper{
+    width: 100%;
+    
+}
